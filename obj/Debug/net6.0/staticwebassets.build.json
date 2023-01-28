@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8gt04WRz4fBmmxcocMzclyHDazCHjlkjYocgF84LYXs=",
+  "Source": "ApiKeyAuthentication",
+  "BasePath": "_content/ApiKeyAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
